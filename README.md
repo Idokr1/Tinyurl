@@ -12,5 +12,5 @@ REST API web service written in Spring-Boot (Java), allows users to short URLs, 
 
 ## Features
 * Short URL - The user can create a short URL for any URL
-* URL Statistics - The user can see statistics about his URLs (total amount of clicks, total amount of clicks per URL, etc) via Mongodb
+* URL Statistics - The user can see statistics about his URLs (total amount of clicks, total amount of clicks per URL, etc) via MongoDB
 * URL Activity - The user can see activity about his URLs (when, which URL, who visited etc.) via Cassandra
